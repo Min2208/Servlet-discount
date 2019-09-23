@@ -11,7 +11,7 @@
     <title>$Title$</title>
   </head>
   <body>
-  <form action="/Product_discount_war_exploded/discount" method="post">
+  <form action="/discount" method="post">
     <label >Product Description</label><br>
     <h4 >SamSung Note 9</h4>
     <label >List Price</label><br>
